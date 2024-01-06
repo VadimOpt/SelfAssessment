@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
+  - Object 🎓 known
+  - this 🎓 known
+  - arrow function 🎓 known
+  - async function 🎓 known
+  - call 🎓 known
+  - bind 👂 heard
+  - apply 👂 heard
+  - instanceof 👂 heard
+  - ...spread 👂 heard
+  - ...rest 👂 heard
+  - typeof 🎓 known
+  - destructuring 👂 heard
+  - generator 👂 heard
+  - iterator 🎓 known
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 👂 heard
   - optional chaining
   - IIFE
   - global
   - globalThis
   - window
   - getters and setters
-  - __proto__
-  - prototype
+  - __proto__ 👂 heard
+  - prototype 👂 heard
   - equality operators
-  - logical operators
+  - logical operators 🎓 known
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator 🎓 known
+  - void 👂 heard
   - yield
-  - await
+  - await 👂 heard
   - template literal
-  - strict mode
+  - strict mode 👂 heard
   - delete
   - in
   - super
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🎓 known
+  - while 🎓 known
+  - do..while 🎓 known
+  - for 🎓 known
+  - for..in 🎓 known
+  - for..of 🎓 known
+  - for await 🎓 known
+  - throw 👂 heard
+  - break 👂 heard
+  - continue 👂 heard
+  - import 👂 heard
+  - export 👂 heard
+  - label 👂 heard
+  - try..catch 👂 heard
+  - switch 👂 heard
+  - class 👂 heard
+  - new Error 👂 heard
+  - with 👂 heard
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🎓 known
+  - function expression 🎓 known
+  - return 👂 heard
+  - default parameters 👂 heard
+  - functional object 👂 heard
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array 🎓 known
+  - mixin 👂 heard
+  - extend 👂 heard
+  - typed arrays 👂 heard
+  - Map 🎓 known
+  - Set 👂 heard
+  - undefined 🎓 known
+  - null 🎓 known
+  - Proxy 👂 heard
+  - weak collections 👂 heard
+  - timers 👂 heard
+  - EventEmitter 👂 heard
+  - RegExp 👂 heard
+  - Date 🎓 known
+  - BigInt 👂 heard
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 👂 heard
+  - npm 👂 heard
   - prettier
-  - MDN
+  - MDN 👂 heard

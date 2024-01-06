@@ -1,106 +1,107 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🖐️ used
+  - identifier 🖐️ used
+  - variable 🖐️ used
+  - constant 🖐️ used
+  - scalar 🖐️ used
+  - literal 🖐️ used
+  - expression 🖐️ used
+  - heap 🎓 known
+  - function 🖐️ used
+  - procedure 🖐️ used
+  - method 🖐️ used
+  - class 👂 heard
+  - prototype 👂 heard
+  - event 🖐️ used
+  - type 🖐️ used
+  - primitive types 🖐️ used
+  - reference types 🎓 known
+  - flag 👂 heard
+  - lexical scope 👂 heard
+  - code block 🎓 known
+  - conditions 👂 heard
+  - loops 🎓 known
+  - assignment 👂 heard
+  - regular expression 👂 heard
+  - interface 👂 heard
+  - contract 👂 heard
+  - module 🎓 known
+  - call stack 🎓 known
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - signature 🖐️ used
+  - argument 🖐️ used
+  - parameter 🖐️ used
+  - pure function 🖐️ used
+  - lambda expression 🖐️ used
+  - side effects 👂 heard
+  - closure 🖐️ used
   - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - curry 🎓 known
+  - higher order 🎓 known
+  - recursion 🎓 known
+  - callback 🖐️ used
+  - listener 🖐️ used
+  - compose 👂 heard
+  - pipe 👂 heard
+  - memoize 👂 heard
+  - wrapper 🖐️ used
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 👂 heard
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
+  - array 🖐️ used
+  - structure 🎓 known
+  - record 👂 heard
+  - enum 
+  - instance 👂 heard
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection 🖐️ used
+  - set 🖐️ used
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
+  - linked list 🖐️ used
+  - doubly list 👂 heard
+  - unrolled list 👂 heard
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
+  - queue 👂 heard
+  - stack 👂 heard
+  - deque 👂 heard
+  - tree 👂 heard
+  - graph 👂 heard
+  - iterator 🖐️ used
+  - mutable state 👂 heard
+  - immutable state 👂 heard
   - serialization
-  - string parsing
+  - string parsing 👂 heard
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
+  - compiler 🖐️ used
+  - transpiler 🖐️ used
+  - linter 🖐️ used
+  - polyfill 👂 heard
+  - debugger 👂 heard
+  - garbage collection 👂 heard
+  - refactoring 🖐️ used
+  - code review 👂 heard
+  - antipatterns 👂 heard
+  - paradigm 👂 heard
+  - algorithm 👂 heard
+  - magic numbers 👂 heard
+  - hardcode 👂 heard
   - complexity
   - decomposition
   - spaghetti
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code
-  - duplicate code
+  - unreachable code 👂 heard
+  - duplicate code 🖐️ used
   - exception
-  - return early
+  - return early 
   - unittest
-  - git
-  - github
+  - git 👂 heard
+  - github 👂 heard
+ 
