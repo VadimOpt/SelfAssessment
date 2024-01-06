@@ -37,7 +37,7 @@
   - lambda expression 🖐️ used
   - side effects 👂 heard
   - closure 🖐️ used
-  - partial application
+  - partial application 🖐️ used
   - curry 🎓 known
   - higher order 🎓 known
   - recursion 🎓 known
@@ -56,17 +56,17 @@
   - array 🖐️ used
   - structure 🎓 known
   - record 👂 heard
-  - enum
+  - enum 🎓 known
   - instance 👂 heard
   - object 🖐️ used
   - class 🖐️ used
   - collection 🖐️ used
   - set 🖐️ used
-  - hash table
+  - hash table 👂 heard
   - linked list 🖐️ used
   - doubly list 👂 heard
   - unrolled list 👂 heard
-  - circular list
+  - circular list 👂 heard
   - queue 👂 heard
   - stack 👂 heard
   - deque 👂 heard
@@ -75,7 +75,7 @@
   - iterator 🖐️ used
   - mutable state 👂 heard
   - immutable state 👂 heard
-  - serialization
+  - serialization 🖐️ used
   - string parsing 👂 heard
 - Process & style
   - compiler 🖐️ used
@@ -91,17 +91,17 @@
   - algorithm 🎓 known
   - magic numbers 👂 heard
   - hardcode 👂 heard
-  - complexity
-  - decomposition
+  - complexity 👂 heard
+  - decomposition 👂 heard
   - spaghetti 👂 heard
   - silver bullet
-  - not invented here
+  - not invented here 👂 heard
   - dead code 👂 heard
   - unreachable code 👂 heard
   - duplicate code 🖐️ used
-  - exception
+  - exception 🖐️ used
   - return early 👂 heard
-  - unittest
+  - unittest 👂 heard
   - git 👂 heard
   - github 👂 heard
  

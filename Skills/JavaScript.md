@@ -26,14 +26,14 @@
   - getters and setters 🖐️ used
   - __proto__ 🎓 known
   - prototype 🎓 known
-  - equality operators 👂 heard
+  - equality operators 🖐️ used
   - logical operators 🎓 known
-  - bitwise operators 👂 heard
+  - bitwise operators 🖐️ used
   - ternary operator 🎓 known
   - void 👂 heard
   - yield 🎓 known
   - await 🖐️ used
-  - template literal
+  - template literal 🖐️ used
   - strict mode 👂 heard
   - delete 🎓 known
   - in 🎓 known
@@ -82,8 +82,8 @@
   - Date 🎓 known
   - BigInt 🎓 known
 - Infrastructure
-  - V8
+  - V8 👂 heard
   - Node.js 👂 heard
   - npm 🎓 known
-  - prettier
+  - prettier 👂 heard
   - MDN 🎓 known

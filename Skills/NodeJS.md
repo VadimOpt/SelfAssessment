@@ -97,15 +97,15 @@
   - REST 🖐️ used
   - RPC
   - Routing
-  - DoS
-  - DDoS
-  - XSS
+  - DoS 👂 heard
+  - DDoS 👂 heard
+  - XSS 👂 heard
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🖐️ used
   - Fetch API 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -137,10 +137,10 @@
   - Object-Relational Mapping
 - Error handling and debugging
   - Error 👂 heard
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - error.cause 👂 heard
+  - error.code 👂 heard
+  - error.message 👂 heard
+  - error.stack 👂 heard
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions

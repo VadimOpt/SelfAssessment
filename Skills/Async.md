@@ -29,7 +29,7 @@
   - Async/await 🎓 known
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator 👂 heard
   - Async Generator 👂 heard
   - Async Iterator 👂 heard
   - Event 🎓 known
@@ -81,12 +81,12 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library 👂 heard
   - RxJS library
   - Async composition
   - Promise.all
   - Promise.allSettled
-  - Promise.race
+  - Promise.race 👂 heard
   - Promise.any
   - Web Locks API
   - IPC
