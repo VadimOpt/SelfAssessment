@@ -1,17 +1,17 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js 👂 heard
+  - Stateful and stateless servers 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
-  - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Event loop: microtasks and macrotasks 👂 heard
+  - Garbage collection 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules 👂 heard
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
@@ -34,7 +34,7 @@
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
-  - Web Streams API
+  - Web Streams API 👂 heard
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 👂 heard
   - TCP/SSL
   - UDP
   - TLS
   - Websocket
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC) 👂 heard
   - Long polling
-  - REST
+  - REST 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -103,7 +103,7 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
+  - Fetch API 🖐️ used
   - IncomingMessage
   - SQL injection
   - noDelay
@@ -136,7 +136,7 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 👂 heard
   - error.cause
   - error.code
   - error.message
